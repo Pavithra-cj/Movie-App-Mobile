@@ -1,12 +1,12 @@
 import React from "react";
 import { Text, View } from "react-native";
 
-const profile = () => {
+const search = () => {
   return (
     <View>
-      <Text>profile</Text>
+      <Text>search</Text>
     </View>
   );
 };
 
-export default profile;
+export default search;
